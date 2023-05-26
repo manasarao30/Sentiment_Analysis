@@ -19,3 +19,10 @@ taking inputs as unstructured product reviews, performs preprocessing,
 calculates polarity of reviews, extracts features on to which comments are made
 and also plots graph for the result. The algorithms precision, recall and accuracy
 are measured finally. 
+
+We have implemented 5 Algorithms and tested the accuracy for each.
+
+<img width="775" alt="Screenshot 2023-05-26 at 7 48 51 AM" src="https://github.com/manasarao30/Sentiment_Analysis/assets/54011799/2ba29a37-b5f8-41c0-b0fb-38e8aedeaa23">
+
+Above we can see the comparison of all the algorithms to find which is best
+according to its accuracy, so we can see here Random Forest is the best of all.
